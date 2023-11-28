@@ -1,5 +1,4 @@
-# LateCoere_expo-imp
-projeto_4º_semestre
+Projeto_4º_semestre
 # Projeto Navegação Exportações e Importações Marítimas LATECOERE 
 
 <div align="center">
@@ -11,33 +10,15 @@ projeto_4º_semestre
 # Índice
 
 * Projeto
-* Equipe
 * Objetivo do Projeto
-* Cronograma das Sprints
 * Backlog do produto
 * Competências desenvolvidas
 * Autores
 
-# Projeto (API) 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
-
-Sprint | Previsão | Status|
-|------|--------|------|
-|Kick Off | dd/mm/aaaa | concluido|
-|01 | dd/mm/aaaa | concluido|
-|02|  dd/mm/aaaa| em progresso |
-|03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
-
-
-# Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo demostrar a operação e processos no porto voltado a componentes aeroespacial:
@@ -47,10 +28,7 @@ Este projeto tem como objetivo demostrar a operação e processos no porto volta
 * Apresentar fontes apuradas de dados brutos;
 * Desenvolver DASHBOARD;
 
-# Funcionalidades e registros
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
 ## Tecnologias Utilizadas
   ### Produto 
@@ -74,28 +52,28 @@ Requisitos funcionais
 - Relatórios 
 
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
+- ANTAQ e BNDES - fontes de dados
 - Metodologias ágil
-- Power BI / Jira / Canvas
+- Power BI e Excel 
 
 ## Sprint 1. Concepção
 - [ ] Conceituar Projeto;
-- [ ] Distribuir atividades intermente;
+- [ ] Distribuir atividades internamente;
 - [ ] Apresetação da empresa;
 - [ ] Escolher item principal para analise;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento Obrigatórios e especiais;
-- [ ] Responsabilidades e Dinâmicas;
-- [ ] Portos de transitação;
-- [ ] Fornecedor chave;
+- [ ] Documentos Obrigatórios e especiais;
+- [ ] Responsabilidades e Dinâmicas de operação;
+- [ ] Portos de transitação portuária;
+- [ ] Fornecedor principal;
 - [ ] Rota aquaviária;
 - [ ] Busca de dados brutos;
       
 ## Sprint 3 . Implementação
 - [ ] Criação de DASHBOARD teste;
-- [ ] Pesquisa de fontes públicos;
-- [ ] Refinação de dados;
+- [ ] Pesquisa de fontes públicas;
+- [ ] Apuração de dados;
 - [ ] Concluir dados e finalizar DASHBOARD;
 
 </details>
