@@ -17,7 +17,7 @@ Projeto_4º_semestre
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
 </p>
 
 # Objetivo do Projeto
@@ -29,17 +29,8 @@ Este projeto tem como objetivo demostrar a operação e processos no porto volta
 * Desenvolver DASHBOARD;
 
 
-
-## Tecnologias Utilizadas
-  ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
-
  ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
+> Gestão de Modal Marítimo / Analise Quantitativa / Operação logística Integrada 
   
 <div align="center">
     
@@ -57,24 +48,36 @@ Requisitos não funcionais
 - Power BI e Excel 
 
 ## Sprint 1. Concepção
-- [ ] Conceituar Projeto;
-- [ ] Distribuir atividades internamente;
-- [ ] Apresetação da empresa;
-- [ ] Escolher item principal para analise;
+- [X] Conceituar Projeto;
+- [X] Distribuir atividades internamente;
+- [X] Apresetação da empresa;
+- [X] Escolher item principal para analise;
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
+</p>
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documentos Obrigatórios e especiais;
-- [ ] Responsabilidades e Dinâmicas de operação;
-- [ ] Portos de transitação portuária;
-- [ ] Fornecedor principal;
-- [ ] Rota aquaviária;
-- [ ] Busca de dados brutos;
+- [X] Documentos Obrigatórios e especiais;
+- [X] Responsabilidades e Dinâmicas de operação;
+- [X] Portos de transitação portuária;
+- [X] Fornecedor principal;
+- [X] Rota aquaviária;
+- [X] Busca de dados brutos;
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
+</p>
       
 ## Sprint 3 . Implementação
 - [ ] Criação de DASHBOARD teste;
 - [ ] Pesquisa de fontes públicas;
 - [ ] Apuração de dados;
 - [ ] Concluir dados e finalizar DASHBOARD;
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-yellow"/>
+</p>
 
 </details>
 
