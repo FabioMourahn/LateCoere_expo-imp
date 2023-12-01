@@ -12,9 +12,8 @@ _________________________________
 * Projeto
 * Objetivo do Projeto
 * Sequência de Aprenstações
-* Competências desenvolvidas
 * Autores
-
+________________________________
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
@@ -42,7 +41,8 @@ Requisitos não funcionais
 - ANTAQ e BNDES - fontes de dados
 - Metodologias ágil
 - Power BI e Excel
-  
+
+________________________________
 ## Sequências de Apresentações
 ________________________________
 ## Sprint 1. Concepção
