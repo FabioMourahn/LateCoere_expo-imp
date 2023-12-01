@@ -7,11 +7,11 @@ Projeto_4º_semestre
 
 </div>
 
-# Índice
-
+## Índice
+_________________________________
 * Projeto
 * Objetivo do Projeto
-* Backlog do produto
+* Sequência de Aprenstações
 * Competências desenvolvidas
 * Autores
 
@@ -20,7 +20,8 @@ Projeto_4º_semestre
  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
 </p>
 
-# Objetivo do Projeto
+## Objetivo do Projeto
+________________________________
 Este projeto tem como objetivo demostrar a operação e processos no porto voltado a componentes aeroespacial:
 * Conceituar operações
 * Organizar e estruturar de atividades;
@@ -31,12 +32,7 @@ Este projeto tem como objetivo demostrar a operação e processos no porto volta
 
  ### Tecnológias Específicas/Apoio
 > Gestão de Modal Marítimo / Analise Quantitativa / Operação logística Integrada 
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
+
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
@@ -45,13 +41,27 @@ Requisitos funcionais
 Requisitos não funcionais
 - ANTAQ e BNDES - fontes de dados
 - Metodologias ágil
-- Power BI e Excel 
-
+- Power BI e Excel
+  
+## Sequências de Apresentações
+________________________________
 ## Sprint 1. Concepção
 - [X] Conceituar Projeto;
 - [X] Distribuir atividades internamente;
 - [X] Apresetação da empresa;
 - [X] Escolher item principal para analise;
+
+<p align="left">
+
+## Itens que são trabalahos na empresa;
+
+![WhatsApp Image 2023-11-30 at 21 13 02](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/4faf1750-7140-4ba1-85d4-3d8c7af5839d)
+
+![WhatsApp Image 2023-11-30 at 21 13 27](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/ea207ad7-05fd-4226-ab88-ed3ad2d7db5d)
+ 
+![WhatsApp Image 2023-11-30 at 21 13 57](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/11e7accb-f86c-4c9e-80e8-64ba4a2e5870)
+
+</d>
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
@@ -64,6 +74,16 @@ Requisitos não funcionais
 - [X] Fornecedor principal;
 - [X] Rota aquaviária;
 - [X] Busca de dados brutos;
+
+<p align="center">
+
+# Dados de sites públicos;
+
+![WhatsApp Image 2023-11-30 at 21 10 49](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/dbc82bae-e737-4b13-8a4f-4b04bb38ee4f)
+![WhatsApp![WhatsApp Image 2023-11-30 at 21 12 20](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/08c7b47a-3614-4f15-bf18-472081ec142b)
+ Image 2023-11-30 at 21 11 29](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/f30c8633-7838-4c1a-99a9-4c0b5bb1a61f)
+
+</d>
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
@@ -79,14 +99,19 @@ Requisitos não funcionais
  <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-yellow"/>
 </p>
 
-</details>
 
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Pessoa 1         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosoliveiraa) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)              |
-| Scrum Master  | Pessoa 2 |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | Pessoa 3              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nepomuceno-04943720a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Pessoa 4                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Pessoa 5                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|  Team Member  | Pessoa 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
+<div align="center"
+
+## Autores
+_________________________________________
+
+|    Função     | Nome           |                                                                                                                                                                                                                                            
+| :-----------: | :--------------|
+| Product Owner | Maria Ribeiro  |
+| Scrum Master  | Fabio Moura    |
+| Team Member   | Luan Souza     |
+|  Team Member  | Jaqueline Casado | 
+|  Team Member  | Pedro Santos    |       
+|  Team Member  | Maria Ferraz    |
+
+</div>
