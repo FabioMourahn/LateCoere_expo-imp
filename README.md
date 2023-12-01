@@ -15,10 +15,6 @@ _________________________________
 * Autores
 ________________________________
 
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
-</p>
-
 ## Objetivo do Projeto
 ________________________________
 Este projeto tem como objetivo demostrar a operação e processos no porto voltado a componentes aeroespacial:
