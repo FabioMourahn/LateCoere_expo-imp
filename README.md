@@ -95,6 +95,16 @@ ________________________________
 - [ ] Apuração de dados;
 - [ ] Concluir dados e finalizar DASHBOARD;
 
+## Dados Brutos:
+
+<div align="center"
+ 
+![WhatsApp Image 2023-11-30 at 21 35 40](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/a0214db1-26e1-4c8e-838f-441a88b8c8a3)
+
+![WhatsApp Image 2023-11-30 at 20 58 03](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/477458a1-84f9-4f32-965d-2ad6ac8269e0)
+
+</div>
+
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-yellow"/>
 </p>
