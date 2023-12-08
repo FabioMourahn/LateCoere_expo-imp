@@ -104,7 +104,7 @@ ________________________________
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
 </p>
 
 
