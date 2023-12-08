@@ -86,20 +86,23 @@ ________________________________
 </p>
       
 ## Sprint 3 . Implementação
-- [ ] Criação de DASHBOARD teste;
-- [ ] Pesquisa de fontes públicas;
-- [ ] Apuração de dados;
-- [ ] Concluir dados e finalizar DASHBOARD;
+- [X] Criação de DASHBOARD teste;
+- [X] Pesquisa de fontes públicas;
+- [X] Apuração de dados;
+- [X] Concluir dados e finalizar DASHBOARD;
 
-## Dados Brutos:
 
-<div align="center"
- 
-![WhatsApp Image 2023-11-30 at 21 35 40](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/a0214db1-26e1-4c8e-838f-441a88b8c8a3)
+<p align="center">
 
-![WhatsApp Image 2023-11-30 at 20 58 03](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/477458a1-84f9-4f32-965d-2ad6ac8269e0)
+## DADOS BRUTOS TRABALHADOS:
 
-</div>
+![WhatsApp Image 2023-12-08 at 13 55 45](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/155010be-f41b-45dc-8c7b-24b78126a998)
+![WhatsApp Image 2023-12-08 at 13 55 20](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/5386cc42-4c50-4ef6-87bf-3be2afe4d48f)
+![WhatsApp Image 2023-12-08 at 13 55 03](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/35f06e92-1631-475b-a29e-2752abd8886c)
+
+
+</d>
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-yellow"/>
