@@ -98,7 +98,6 @@ ________________________________
 
 ![WhatsApp Image 2023-12-08 at 13 55 45](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/155010be-f41b-45dc-8c7b-24b78126a998)
 ![WhatsApp Image 2023-12-08 at 13 55 20](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/5386cc42-4c50-4ef6-87bf-3be2afe4d48f)
-![WhatsApp Image 2023-12-08 at 13 55 03](https://github.com/FabioMourahn/LateCoere_expo-imp/assets/142456922/35f06e92-1631-475b-a29e-2752abd8886c)
 
 
 </d>
